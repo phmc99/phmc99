@@ -11,4 +11,4 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Costa-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmc99/)](https://www.linkedin.com/in/phmc99/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-e60000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrogks@gmail.com)](mailto:pedrogks@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Costa-0073e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmc99/)](https://www.linkedin.com/in/phmc99/)
