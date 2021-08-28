@@ -1,6 +1,6 @@
 ## Pedro Costa
 
-🧑🏾‍💻 Full Stack Development Student <br>
+🧑🏾‍💻 Front-end Developer <br>
 🇧🇷 Rio de Janeiro, Brazil 
 <div>
 
