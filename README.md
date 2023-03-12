@@ -10,7 +10,10 @@
   </div>
 </div>
   
- <div style="display: inline_block"><br>
+ ##
+ 
+ <div align="center"><br>
+  <p align="center"><b>My Skills</b></p> 
   <img align="center" alt="ph-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ph-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ph-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -26,7 +29,8 @@
   
  ##
  
- <div> 
+ <div align="center"> 
+   <p align="center"><b>Contacts</b></p> 
   <a href="https://gitlab.com/phmc99" target="_blank"><img src="https://img.shields.io/badge/-gitlab-c98e77?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.phmc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/phmc99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -37,7 +41,7 @@
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{phmc99}/count.svg" /></p> 
   <br>
 </div>
   
